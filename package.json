@@ -14,8 +14,8 @@
     "Express",
     "RestAPI",
     "MongoDB",
-    "music",
-    "music list"
+    "movie",
+    "movie list"
   ],
   "author": "Pushp Singh",
   "email": "pushp.ranjansingh@gmail.com",
