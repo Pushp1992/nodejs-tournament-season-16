@@ -1,0 +1,84 @@
+{
+    "statusmessage": "Successful",
+    "statusCode": 1,
+    "data": {
+        "musicList": {
+            "category": [
+                {
+                    "bollywood": {
+                        "genre": [
+                            {
+                                "pop": [
+                                    {
+                                        "id": 1,
+                                        "name": "pop-1",
+                                        "title": "my pop",
+                                        "released_at": "20/12/1990",
+                                        "singers": ["sonu nigham"]
+                                    }
+                                ],
+                                "rock": [
+                                    {
+                                        "id": 1,
+                                        "name": "rock-1",
+                                        "title": "my rock",
+                                        "released_at": "23/12/1997",
+                                        "singers": ["A.R Rehman"]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "hollywood": {
+                        "genre": [
+                            {
+                                "pop": [
+                                    {
+                                        "id": 1,
+                                        "name": "Hips dont lies",
+                                        "title": "holly-2",
+                                        "released_at": "12/13/2000",
+                                        "singers": ["justien biber"]
+                                    }
+                                ],
+                                "rock": [
+                                    {
+                                        "id": 1,
+                                        "name": "alaska",
+                                        "title": "my aslaska",
+                                        "released_at": "09/11/2002",
+                                        "singers": ["Brtney"]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "tollywood": {
+                        "genre": [
+                            {
+                                "pop": [
+                                    {
+                                        "id": 1,
+                                        "name": "jinghaat",
+                                        "title": "pop-2",
+                                        "released_at": "my tolly",
+                                        "singers": ["Khesaru lal"]
+                                    }
+                                ],
+                                "rock": [
+                                    {
+                                        "id": 1,
+                                        "name": "rock",
+                                        "title": "my rock",
+                                        "released_at": "98/11/2005",
+                                        "singers": ["pawan singh"]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "statusmessage": "Successful",
+    "statusCode": 1,
+    "data": {
+        "userList": [
+            {
+                "id": 1,
+                "name": "pushp",
+                "email": "pushp@gmail.com",
+                "userType": "standard",
+                "city": "Bangalore",
+                "subscription_type": "premium"
+            },
+            {
+                "id": 2,
+                "name": "rahul",
+                "email": "rahul@gmail.com",
+                "userType": "standard",
+                "city": "Pune",
+                "subscription_type": "null"
+            },
+            {
+                "id": 3,
+                "name": "rahul",
+                "email": "rahul@gmail.com",
+                "userType": "standard",
+                "city": "Bhopal",
+                "subscription_type": "premium"
+            },
+            {
+                "id": 4,
+                "name": "rahul",
+                "email": "rahul@gmail.com",
+                "userType": "guest",
+                "city": "Bhopal",
+                "subscription_type": "null"
+            }
+        ]
+    }
+}
