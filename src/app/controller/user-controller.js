@@ -2,7 +2,7 @@
 
 const userModel = require('../model/user-model');
 
-// Create and Save a new user
+// Create and Save a new user 
 exports.create = (req, res) => {
     
     // validate request body
